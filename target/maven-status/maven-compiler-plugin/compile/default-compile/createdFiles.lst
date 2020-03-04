@@ -1,0 +1,6 @@
+rest\endpoints\GetRequestController.class
+rest\starter\SprintBootMainApplication.class
+rest\beans\StudentRegistration.class
+rest\beans\Student.class
+rest\beans\StudentRegistrationReply.class
+rest\endpoints\PostRequestController.class
